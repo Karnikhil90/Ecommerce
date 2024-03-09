@@ -57,7 +57,7 @@ We'll employ a robust database system to store user data, product information, a
 
 ## Next Steps
 
-To delve deeper into the project, navigate through the specific sections outlined in this documentation. For a detailed understanding of our architecture, proceed to the [**Architecture Overview**]([#link-to-architecture-section](https://docs.google.com/document/d/10iXQbiW6eKvzFZAOi7DBg00-34LNaOB8IYr6M8er0dc/edit?usp=sharing)).
+To delve deeper into the project, navigate through the specific sections outlined in this documentation. For a detailed understanding of our architecture, proceed to the [**Architecture Overview**](https://docs.google.com/document/d/10iXQbiW6eKvzFZAOi7DBg00-34LNaOB8IYr6M8er0dc/edit).
 
 ## Contact Information
 
