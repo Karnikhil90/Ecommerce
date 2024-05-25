@@ -63,4 +63,4 @@ To delve deeper into the project, navigate through the specific sections outline
 
 For inquiries, please contact us via:
 - Email: [![Email](https://img.shields.io/badge/Email-nikhilbroo%40hotmail.com-blue)](mailto:nikhilbroo@hotmail.com)
-- Twitter: [![Twitter](https://img.shields.io/badge/Twitter-%40karnikhil-blue)](https://twitter.com/karnikhil)
+- Twitter: [![Twitter](https://img.shields.io/badge/Twitter-%40karnikhil-blue)](https://twitter.com/karnikhil90)
